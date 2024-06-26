@@ -1,0 +1,13 @@
+# LEARNIUM_SK_HEADER=LEARNIUM_SK_HEADER
+
+# EMAIL_HOST_USER=mail@google.com
+# EMAIL_HOST_PASSWORD=password
+# DEFAULT_FROM_EMAIL=mail@google.com
+
+# EMAIL_HOST=smtp.gmail.com
+# EMAIL_PORT=587
+# EMAIL_USE_TLS=True
+
+
+# Learnium_INFO_MAIL=mail@google.com
+# Learnium_CUSTOMER_SUPPORT_MAIL=mail@google.com
