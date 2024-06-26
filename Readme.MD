@@ -1,4 +1,4 @@
-# Learnium
+# Edufy
 
 Learnium is a [brief description of your project].
 
@@ -36,9 +36,9 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-To install and use Learnium, follow these steps:
+To install and use Edufy, follow these steps:
 
 1. Clone the repository using SSH:
    ```bash
-   git clone git@github.com:codertjay/Learnium.git
+   git clone git@github.com:Joepolymath/edufy.git
 
